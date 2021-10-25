@@ -1,0 +1,8 @@
+﻿  RE_LAB2.cpp
+C:\Users\eqqie\OneDrive\课程文件\软件逆向工程\上机\RE_LAB2\RE_LAB2.cpp(18,20): warning C4244: “初始化”: 从“INT_PTR”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  RE_LAB2.vcxproj -> C:\Users\eqqie\OneDrive\课程文件\软件逆向工程\上机\RE_LAB2\x64\Release\RE_LAB2.exe
